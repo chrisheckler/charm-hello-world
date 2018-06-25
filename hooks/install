@@ -1,0 +1,5 @@
+#!/bin/bash
+set -e
+status-set maintenance "Installing zip package."
+sudo apt -y install zip
+juju-log "Installed zip"

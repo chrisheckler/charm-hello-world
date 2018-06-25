@@ -1,0 +1,5 @@
+options:
+  string-option:
+    type: string
+    default: "Hello World"
+    description: "This is what a string option may look like" 

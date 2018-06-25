@@ -1,0 +1,7 @@
+name: hello-world
+summary: basic hello-world charm 
+maintainer: heckler <heckler@hecklertop>
+description: |
+  this charm is a very basic intorduction into the workflow of building a charm.
+tags:
+  - misc

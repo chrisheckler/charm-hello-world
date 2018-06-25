@@ -1,0 +1,5 @@
+#!/bin/bash
+
+set -e
+MESSAGE=$(config-get message)
+status-set active "Started with message: $MESSAGE"
